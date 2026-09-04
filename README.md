@@ -93,7 +93,7 @@ from getpass import getpass
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/SecureLoginSystem.git
+https://github.com/dharmendra-developer/Login_System.git
 ```
 
 ### 2. Open the Project Folder
